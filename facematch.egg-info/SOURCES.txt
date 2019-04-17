@@ -1,0 +1,8 @@
+MANIFEST.in
+facematch.py
+setup.py
+facematch.egg-info/PKG-INFO
+facematch.egg-info/SOURCES.txt
+facematch.egg-info/dependency_links.txt
+facematch.egg-info/requires.txt
+facematch.egg-info/top_level.txt

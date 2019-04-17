@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: facematch
+Version: 1
+Summary: Passbase challenge
+Home-page: https://github.com/ma9o/facematch
+Author: Giovanni Magoga
+Author-email: giovanni.magoga@studenti.unitn.it
+License: MIT
+Description: Passbase challenge
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7.2
+Description-Content-Type: text/markdown
