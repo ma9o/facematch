@@ -19,6 +19,7 @@ affinity = FaceMatch('image1.png','image2.png').compare()
 ```
 
 ## Credits
+* https://arxiv.org/pdf/1804.06655.pdf
 * https://github.com/deepinsight/insightface
 * https://github.com/tomerfiliba/rpyc
 * https://github.com/dmlc/tvm
